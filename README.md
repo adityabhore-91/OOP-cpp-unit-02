@@ -3,11 +3,11 @@ oop with c++ unit-2  : Inheritance Practical Program
 
 ## Student Details
 
-Student Name: Aditya Prabhakar Bhore 
-PRN: 125UAD1103
-Class/Division: SY B.Tech AI&DS - F
-Course Name: Object-Oriented Programming with C++
-Course Code: ADPC303
+.Student Name: Aditya Prabhakar Bhore 
+.PRN: 125UAD1103
+.Class/Division: SY B.Tech AI&DS - F
+.Course Name: Object-Oriented Programming with C++
+.Course Code: ADPC303
 
 ## Unit II - Inheritance
 
